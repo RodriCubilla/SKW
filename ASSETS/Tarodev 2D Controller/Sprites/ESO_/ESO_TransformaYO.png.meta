@@ -1,0 +1,516 @@
+fileFormatVersion: 2
+guid: 28ac5c87cde17564da4c55068e1a0018
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7590527916771913341
+    second: ESO_TransformaYO_0
+  - first:
+      213: -1913208296120700484
+    second: ESO_TransformaYO_1
+  - first:
+      213: -3447968674141109056
+    second: ESO_TransformaYO_2
+  - first:
+      213: -4646115642213841880
+    second: ESO_TransformaYO_3
+  - first:
+      213: 750040160742005589
+    second: ESO_TransformaYO_4
+  - first:
+      213: 2939093908549265888
+    second: ESO_TransformaYO_5
+  - first:
+      213: -3931072984745046549
+    second: ESO_TransformaYO_6
+  - first:
+      213: -8752334920746883781
+    second: ESO_TransformaYO_7
+  - first:
+      213: -4234048606868589957
+    second: ESO_TransformaYO_8
+  - first:
+      213: -521406863250539924
+    second: ESO_TransformaYO_9
+  - first:
+      213: 5876284134053300809
+    second: ESO_TransformaYO_10
+  - first:
+      213: -8298291853911549913
+    second: ESO_TransformaYO_11
+  - first:
+      213: -7286330629242171143
+    second: ESO_TransformaYO_12
+  - first:
+      213: -868720287560213382
+    second: ESO_TransformaYO_13
+  - first:
+      213: 2037580891978154482
+    second: ESO_TransformaYO_14
+  - first:
+      213: -3603488571942114828
+    second: ESO_TransformaYO_15
+  - first:
+      213: 5745352945383512367
+    second: ESO_TransformaYO_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ESO_TransformaYO_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 15
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e20e88ce8f65960800000000000000
+      internalID: 7590527916771913341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESO_TransformaYO_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 15
+        width: 68
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb13568f03be275e0800000000000000
+      internalID: -1913208296120700484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESO_TransformaYO_2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 15
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4052d42ca5620d0800000000000000
+      internalID: -3447968674141109056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESO_TransformaYO_3
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 15
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8244578807ea58fb0800000000000000
+      internalID: -4646115642213841880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESO_TransformaYO_4
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 15
+        width: 62
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bdd446d8da86a00800000000000000
+      internalID: 750040160742005589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESO_TransformaYO_5
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 15
+        width: 63
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9e79c7652c9c820800000000000000
+      internalID: 2939093908549265888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESO_TransformaYO_6
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 15
+        width: 71
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed0326b2f50279c0800000000000000
+      internalID: -3931072984745046549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESO_TransformaYO_7
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 15
+        width: 77
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35a2ade2c5798680800000000000000
+      internalID: -8752334920746883781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESO_TransformaYO_8
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 15
+        width: 77
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b723cd99933ad35c0800000000000000
+      internalID: -4234048606868589957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESO_TransformaYO_9
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 15
+        width: 78
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a308c683793c8f0800000000000000
+      internalID: -521406863250539924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESO_TransformaYO_10
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 15
+        width: 77
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ac2893941cc8150800000000000000
+      internalID: 5876284134053300809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESO_TransformaYO_11
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 15
+        width: 78
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728951d668b86dc80800000000000000
+      internalID: -8298291853911549913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESO_TransformaYO_12
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 15
+        width: 77
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0d8f7b5e0c1ea90800000000000000
+      internalID: -7286330629242171143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESO_TransformaYO_13
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 15
+        width: 78
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c5cca408fa1f3f0800000000000000
+      internalID: -868720287560213382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESO_TransformaYO_14
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 15
+        width: 78
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f14b739601f64c10800000000000000
+      internalID: 2037580891978154482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESO_TransformaYO_15
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 15
+        width: 77
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9e5356c36ddfdc0800000000000000
+      internalID: -3603488571942114828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ESO_TransformaYO_16
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 15
+        width: 78
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2914da40189bbf40800000000000000
+      internalID: 5745352945383512367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Tarodev 2D Controller/Scenes/Nivel0.unity
+    guid: fce57a5bf0922c04bb9141cd28a3efe0
+  - enabled: 1
+    path: Assets/Tarodev 2D Controller/Scenes/Menu.unity
+    guid: 9d55bc49d58b4fa4d9ab26ee2bc9571e
+  - enabled: 1
+    path: Assets/Tarodev 2D Controller/Scenes/Opc.unity
+    guid: 6eec817e160082d47ad21b55a9f3867d
+  - enabled: 1
+    path: Assets/Tarodev 2D Controller/Scenes/VideoAudio.unity
+    guid: 047cd70ee54314c4f9773559e3a02d95
+  - enabled: 1
+    path: Assets/Tarodev 2D Controller/Scenes/Controles.unity
+    guid: 1c92c9d8cdfadce43a6fdb908599b83e
+  - enabled: 1
+    path: Assets/Tarodev 2D Controller/Scenes/OpcPause.unity
+    guid: 8e4a7d04e0d8e174298a13eb9a84b7b0
+  - enabled: 1
+    path: Assets/Tarodev 2D Controller/Scenes/NIVEL 1/ZonaInicial.unity
+    guid: 1895f90e86ece334c8c7aa40ad6b9e93
+  - enabled: 1
+    path: Assets/Tarodev 2D Controller/Scenes/NIVEL 1/Ascensor.unity
+    guid: aec36881004b0c44cac0e41d5a3c63f9
+  - enabled: 1
+    path: Assets/Tarodev 2D Controller/Scenes/NIVEL 1/CuartoGuardia.unity
+    guid: 6a6fcf242c91e954b97ea8dc9b093bd8
+  m_configObjects: {}

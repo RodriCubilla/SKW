@@ -1,0 +1,1284 @@
+fileFormatVersion: 2
+guid: 7c3c67052a67bbc4598a27cf562c8b6d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2965207508103424124
+    second: YO_CaminaSaluda_0
+  - first:
+      213: -7722284712211867687
+    second: YO_CaminaSaluda_1
+  - first:
+      213: -7745162842188519718
+    second: YO_CaminaSaluda_2
+  - first:
+      213: 7551489603920045587
+    second: YO_CaminaSaluda_3
+  - first:
+      213: 6371646285777121755
+    second: YO_CaminaSaluda_4
+  - first:
+      213: -5567822530846370682
+    second: YO_CaminaSaluda_5
+  - first:
+      213: -6784471051455561601
+    second: YO_CaminaSaluda_6
+  - first:
+      213: -4936575712810907972
+    second: YO_CaminaSaluda_7
+  - first:
+      213: 4107488043289397678
+    second: YO_CaminaSaluda_8
+  - first:
+      213: 2417077036235270149
+    second: YO_CaminaSaluda_9
+  - first:
+      213: -4972286781881391463
+    second: YO_CaminaSaluda_10
+  - first:
+      213: -1891716602543055773
+    second: YO_CaminaSaluda_11
+  - first:
+      213: 1590025469150539829
+    second: YO_CaminaSaluda_12
+  - first:
+      213: 4599063878085413034
+    second: YO_CaminaSaluda_13
+  - first:
+      213: -4587710944422526280
+    second: YO_CaminaSaluda_14
+  - first:
+      213: -9042507081713329716
+    second: YO_CaminaSaluda_15
+  - first:
+      213: 8668614067652809566
+    second: YO_CaminaSaluda_16
+  - first:
+      213: -5875754336887185147
+    second: YO_CaminaSaluda_17
+  - first:
+      213: 5094548172634592007
+    second: YO_CaminaSaluda_18
+  - first:
+      213: -3266454367038011619
+    second: YO_CaminaSaluda_19
+  - first:
+      213: -6172443223893689569
+    second: YO_CaminaSaluda_20
+  - first:
+      213: 574336615102252807
+    second: YO_CaminaSaluda_21
+  - first:
+      213: 8019849367304887204
+    second: YO_CaminaSaluda_22
+  - first:
+      213: -4956288714299838424
+    second: YO_CaminaSaluda_23
+  - first:
+      213: 7742106448420875056
+    second: YO_CaminaSaluda_24
+  - first:
+      213: 2738241741859141808
+    second: YO_CaminaSaluda_25
+  - first:
+      213: 2908567907195018129
+    second: YO_CaminaSaluda_26
+  - first:
+      213: 548137848307496790
+    second: YO_CaminaSaluda_27
+  - first:
+      213: 2486378270812431296
+    second: YO_CaminaSaluda_28
+  - first:
+      213: 4037314350446978124
+    second: YO_CaminaSaluda_29
+  - first:
+      213: -3050689252813646182
+    second: YO_CaminaSaluda_30
+  - first:
+      213: 2132274389009620430
+    second: YO_CaminaSaluda_31
+  - first:
+      213: 4870876395330513390
+    second: YO_CaminaSaluda_32
+  - first:
+      213: 3477267635879632176
+    second: YO_CaminaSaluda_33
+  - first:
+      213: -2234185498282803082
+    second: YO_CaminaSaluda_34
+  - first:
+      213: 1324280505808958389
+    second: YO_CaminaSaluda_35
+  - first:
+      213: -3086906435225187478
+    second: YO_CaminaSaluda_36
+  - first:
+      213: 2964770321240429852
+    second: YO_CaminaSaluda_37
+  - first:
+      213: -8806150982062637452
+    second: YO_CaminaSaluda_38
+  - first:
+      213: -6806438029568508864
+    second: YO_CaminaSaluda_39
+  - first:
+      213: 8910706534423297703
+    second: YO_CaminaSaluda_40
+  - first:
+      213: 5954436345727033759
+    second: YO_CaminaSaluda_41
+  - first:
+      213: -8711687404031267066
+    second: YO_CaminaSaluda_42
+  - first:
+      213: 3990742258161396648
+    second: YO_CaminaSaluda_43
+  - first:
+      213: -7604632845212405475
+    second: YO_CaminaSaluda_44
+  - first:
+      213: 7878849827167372714
+    second: YO_CaminaSaluda_45
+  - first:
+      213: 4334509412740341119
+    second: YO_CaminaSaluda_46
+  - first:
+      213: 2038967930609160335
+    second: YO_CaminaSaluda_47
+  - first:
+      213: -7491892568546443648
+    second: YO_CaminaSaluda_48
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: YO_CaminaSaluda_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 9
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7863dda488862920800000000000000
+      internalID: 2965207508103424124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YO_CaminaSaluda_1
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 9
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d79e2af7fee4d490800000000000000
+      internalID: -7722284712211867687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YO_CaminaSaluda_2
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 9
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad66ccf3e67a38490800000000000000
+      internalID: -7745162842188519718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YO_CaminaSaluda_3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 9
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316a5b609c74cc860800000000000000
+      internalID: 7551489603920045587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YO_CaminaSaluda_4
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 9
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1be2ad982ac6850800000000000000
+      internalID: 6371646285777121755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YO_CaminaSaluda_5
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 9
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6845c7468ee1bb2b0800000000000000
+      internalID: -5567822530846370682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YO_CaminaSaluda_6
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 9
+        width: 21
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70021d3687b8d1a0800000000000000
+      internalID: -6784471051455561601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YO_CaminaSaluda_7
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 9
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6c5175b82cd7bb0800000000000000
+      internalID: -4936575712810907972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YO_CaminaSaluda_8
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 9
+        width: 21
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9cd6bec9ab00930800000000000000
+      internalID: 4107488043289397678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YO_CaminaSaluda_9
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 9
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508ae8b12ce2b8120800000000000000
+      internalID: 2417077036235270149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YO_CaminaSaluda_10
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 9
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996e6942483eefab0800000000000000
+      internalID: -4972286781881391463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YO_CaminaSaluda_11
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 9
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c56b1d5c54fb5e0800000000000000
+      internalID: -1891716602543055773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YO_CaminaSaluda_12
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 9
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530ba886db7e01610800000000000000
+      internalID: 1590025469150539829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YO_CaminaSaluda_13
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 9
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa88c90fa3823df30800000000000000
+      internalID: 4599063878085413034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YO_CaminaSaluda_14
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 9
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b20689e33d2550c0800000000000000
+      internalID: -4587710944422526280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YO_CaminaSaluda_15
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 9
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9d58be7bf828280800000000000000
+      internalID: -9042507081713329716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YO_CaminaSaluda_16
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 9
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e535665f09a1d4870800000000000000
+      internalID: 8668614067652809566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YO_CaminaSaluda_17
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 9
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501e06acf80257ea0800000000000000
+      internalID: -5875754336887185147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YO_CaminaSaluda_18
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 9
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7031009229873b640800000000000000
+      internalID: 5094548172634592007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YO_CaminaSaluda_19
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 9
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d170da14f093ba2d0800000000000000
+      internalID: -3266454367038011619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YO_CaminaSaluda_20
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 9
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bbc834793175aa0800000000000000
+      internalID: -6172443223893689569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YO_CaminaSaluda_21
+      rect:
+        serializedVersion: 2
+        x: 2738
+        y: 9
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7078ba4cb1478f700800000000000000
+      internalID: 574336615102252807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YO_CaminaSaluda_22
+      rect:
+        serializedVersion: 2
+        x: 2866
+        y: 9
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab5952328a3c4f60800000000000000
+      internalID: 8019849367304887204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YO_CaminaSaluda_23
+      rect:
+        serializedVersion: 2
+        x: 2992
+        y: 9
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82071e38ca9b73bb0800000000000000
+      internalID: -4956288714299838424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YO_CaminaSaluda_24
+      rect:
+        serializedVersion: 2
+        x: 3121
+        y: 9
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b236f9bcc717b60800000000000000
+      internalID: 7742106448420875056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YO_CaminaSaluda_25
+      rect:
+        serializedVersion: 2
+        x: 3249
+        y: 9
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b839ac3b50300620800000000000000
+      internalID: 2738241741859141808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YO_CaminaSaluda_26
+      rect:
+        serializedVersion: 2
+        x: 3378
+        y: 9
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bd571f91f4d5820800000000000000
+      internalID: 2908567907195018129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YO_CaminaSaluda_27
+      rect:
+        serializedVersion: 2
+        x: 3507
+        y: 9
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657b05808706b9700800000000000000
+      internalID: 548137848307496790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YO_CaminaSaluda_28
+      rect:
+        serializedVersion: 2
+        x: 3632
+        y: 9
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c366092dd3618220800000000000000
+      internalID: 2486378270812431296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YO_CaminaSaluda_29
+      rect:
+        serializedVersion: 2
+        x: 3761
+        y: 9
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44aaf8d20c670830800000000000000
+      internalID: 4037314350446978124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YO_CaminaSaluda_30
+      rect:
+        serializedVersion: 2
+        x: 3889
+        y: 9
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96d0fda946c9a5d0800000000000000
+      internalID: -3050689252813646182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YO_CaminaSaluda_31
+      rect:
+        serializedVersion: 2
+        x: 4018
+        y: 9
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecdd490724c579d10800000000000000
+      internalID: 2132274389009620430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YO_CaminaSaluda_32
+      rect:
+        serializedVersion: 2
+        x: 4147
+        y: 9
+        width: 21
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9a2884644d89340800000000000000
+      internalID: 4870876395330513390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YO_CaminaSaluda_33
+      rect:
+        serializedVersion: 2
+        x: 4275
+        y: 9
+        width: 22
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d5191dd7cb14030800000000000000
+      internalID: 3477267635879632176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YO_CaminaSaluda_34
+      rect:
+        serializedVersion: 2
+        x: 4404
+        y: 9
+        width: 21
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670468460249ef0e0800000000000000
+      internalID: -2234185498282803082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YO_CaminaSaluda_35
+      rect:
+        serializedVersion: 2
+        x: 4529
+        y: 9
+        width: 22
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3b7bb8a1ac06210800000000000000
+      internalID: 1324280505808958389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YO_CaminaSaluda_36
+      rect:
+        serializedVersion: 2
+        x: 4658
+        y: 9
+        width: 21
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b0989c3fa1925d0800000000000000
+      internalID: -3086906435225187478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YO_CaminaSaluda_37
+      rect:
+        serializedVersion: 2
+        x: 4784
+        y: 9
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15182e26eaf42920800000000000000
+      internalID: 2964770321240429852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YO_CaminaSaluda_38
+      rect:
+        serializedVersion: 2
+        x: 4912
+        y: 9
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ef2bbb6544ac580800000000000000
+      internalID: -8806150982062637452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YO_CaminaSaluda_39
+      rect:
+        serializedVersion: 2
+        x: 5041
+        y: 9
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04cfbd59cacaa81a0800000000000000
+      internalID: -6806438029568508864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YO_CaminaSaluda_40
+      rect:
+        serializedVersion: 2
+        x: 5169
+        y: 9
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae7d02d16039ab70800000000000000
+      internalID: 8910706534423297703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YO_CaminaSaluda_41
+      rect:
+        serializedVersion: 2
+        x: 5298
+        y: 9
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f912cb8fe4862a250800000000000000
+      internalID: 5954436345727033759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YO_CaminaSaluda_42
+      rect:
+        serializedVersion: 2
+        x: 5424
+        y: 9
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fa878667ed91780800000000000000
+      internalID: -8711687404031267066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YO_CaminaSaluda_43
+      rect:
+        serializedVersion: 2
+        x: 5552
+        y: 9
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aba9df90f6f16730800000000000000
+      internalID: 3990742258161396648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YO_CaminaSaluda_44
+      rect:
+        serializedVersion: 2
+        x: 5681
+        y: 9
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11b8d5e7bae67690800000000000000
+      internalID: -7604632845212405475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YO_CaminaSaluda_45
+      rect:
+        serializedVersion: 2
+        x: 5810
+        y: 9
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa585f28c2c475d60800000000000000
+      internalID: 7878849827167372714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YO_CaminaSaluda_46
+      rect:
+        serializedVersion: 2
+        x: 5938
+        y: 9
+        width: 22
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d99fd7855472c30800000000000000
+      internalID: 4334509412740341119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YO_CaminaSaluda_47
+      rect:
+        serializedVersion: 2
+        x: 6067
+        y: 9
+        width: 21
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f805f5ca78edb4c10800000000000000
+      internalID: 2038967930609160335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YO_CaminaSaluda_48
+      rect:
+        serializedVersion: 2
+        x: 6195
+        y: 9
+        width: 22
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e76641763770890800000000000000
+      internalID: -7491892568546443648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
